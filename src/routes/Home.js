@@ -74,9 +74,10 @@ export const Home = () => {
         )}
         <div className="col-8 m-auto text-center">
           <h3 className="text-primary">
-            React Firebase Authentication with Email Verfication
+            React Firebase Authentication with Email Verification
           </h3>
-          <h4>Hello and Welcome</h4>
+          <h4>This project allows users to signup, login, verify email upon signup and password reset</h4>
+          <h5>Hello and Welcome</h5>
           {!user.name && <h5>Login or signup to test this application</h5>}
           {user.name && <h5>You have successfully logged in</h5>}
           <div className="my-3">
