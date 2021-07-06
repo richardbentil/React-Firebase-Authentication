@@ -1,4 +1,4 @@
-# Getting Started with React Firebase Authentication
+# React Firebase Authentication
 
 A react application built to provide authentication for web applications
 
